@@ -1,0 +1,14 @@
+{
+  "name": "stack-siege",
+  "version": "1.0.0",
+  "description": "STACK SIEGE - 3D falling-block puzzle game with 30 villains and shared leaderboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
